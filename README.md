@@ -3,7 +3,6 @@
 A classic **Simon Says memory game** built using **HTML, CSS, and JavaScript**.
 The game tests the player’s memory by generating a sequence of colors that must be repeated in the correct order. The sequence increases with every level, making the game progressively harder.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@ The game tests the player’s memory by generating a sequence of colors that mus
 * Game over detection with score display
 * Keyboard start functionality
 
----
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +19,6 @@ The game tests the player’s memory by generating a sequence of colors that mus
 * CSS3
 * JavaScript (DOM Manipulation & Event Handling)
 
----
 
 ## 🎯 How to Play
 
@@ -31,7 +28,6 @@ The game tests the player’s memory by generating a sequence of colors that mus
 4. Each correct round increases the level.
 5. A wrong click ends the game and shows your score.
 
----
 
 ## 📸 Screenshot
 
@@ -39,7 +35,6 @@ The game tests the player’s memory by generating a sequence of colors that mus
 
 ![Simon Game Screenshot](screenshot.png)
 
----
 
 ## 👨‍💻 Author
 
